@@ -1,3 +1,5 @@
+<img src="https://github.com/ry-ops/mcp-server-unifi/blob/main/UniFi-Grafana.png" width="100%">
+
 # UniFi Grafana MCP Streamer Server
 
 A comprehensive Model Context Protocol (MCP) server for UniFi network infrastructure management with real-time Grafana integration. Monitor and control your UniFi Network, Access, and Protect systems through a unified API interface.
