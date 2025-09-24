@@ -31,7 +31,7 @@ A comprehensive Model Context Protocol (MCP) server for UniFi network infrastruc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/unifi-mcp-server.git
+git clone https://github.com/ry-ops/unifi-mcp-server.git
 cd unifi-mcp-server
 
 # Install with uv (recommended)
