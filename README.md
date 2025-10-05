@@ -1,5 +1,11 @@
 <img src="https://github.com/ry-ops/unifi-grafana-streamer/blob/main/%20unifi-grafana-streamer.png" width="100%">
 
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/badge/uv-latest-green.svg)](https://github.com/astral-sh/uv)
+[![MCP](https://img.shields.io/badge/MCP-1.0-purple.svg)](https://modelcontextprotocol.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 # UniFi Grafana MCP Streamer Server
 
 A comprehensive Model Context Protocol (MCP) server for UniFi network infrastructure management with real-time Grafana integration. Monitor and control your UniFi Network, Access, and Protect systems through a unified API interface.
