@@ -1,4 +1,4 @@
-<img src="https://github.com/ry-ops/UniFi-Grafana-Streamer/blob/main/unifi-grafana-streamer.png?raw=true" width="100%">
+<img src="https://github.com/ry-ops/unifi-grafana-streamer/blob/main/%20unifi-grafana-streamer.png" width="100%">
 
 # UniFi Grafana MCP Streamer Server
 
